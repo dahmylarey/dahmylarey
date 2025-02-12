@@ -2,7 +2,7 @@
 - 👀 I’m interested in C# Projects
 - 🌱 I’m currently learning Advance C# and Java Script
 - 💞️ I’m looking to collaborate on Advance Projects
-- 📫 How to reach me github.com/dahmylarey
+- 📫 How to reach me github.com/dahmylarey, X.com/dahmylarey
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
